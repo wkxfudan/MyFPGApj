@@ -1,0 +1,706 @@
+[2013-Oct-11 22:18:02.470647] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-11 22:18:02.470647] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-11 22:18:02.470647] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-11 22:18:02.814413] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-11 22:18:02.830041] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-11 22:18:02.830041] place: INFO   : Effort Level  : 10
+
+[2013-Oct-11 22:18:02.830041] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-11 22:18:02.845667] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Amount of IOB: 56
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Amount of SLICE: 97
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Amount of Net: 271
+
+[2013-Oct-11 22:18:02.845667] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Proportion of IOB: 39.44%
+
+[2013-Oct-11 22:18:02.845667] place: INFO   :   * Proportion of SLICE(LUT4): 3.16%
+
+[2013-Oct-11 22:18:02.845667] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-11 22:18:02.876923] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-11 22:18:02.876923] place: INFO   :   * Initial cost = 185.065
+
+[2013-Oct-11 22:18:02.876923] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-11 22:18:04.173854] place: INFO   :   * After 20 iterations cost = 148.982
+
+[2013-Oct-11 22:18:05.127026] place: INFO   :   * After 40 iterations cost = 120.458
+
+[2013-Oct-11 22:18:05.783308] place: INFO   :   * After 60 iterations cost = 62.8692
+
+[2013-Oct-11 22:18:06.736480] place: INFO   :   * After 80 iterations cost = 36.3766
+
+[2013-Oct-11 22:18:07.345884] place: INFO   :   * After 100 iterations cost = 25.7705
+
+[2013-Oct-11 22:18:07.580270] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-11 22:18:07.595896] place: INFO   :   * Final cost = 25.432
+
+[2013-Oct-11 22:18:07.595896] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-11 22:18:07.627147] place: INFO   : Successfully finish placement. Elapsed Time: 5s
+
+[2013-Oct-11 23:20:26.792372] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-11 23:20:26.794373] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-11 23:20:26.794373] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-11 23:20:27.128595] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-11 23:20:27.142605] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-11 23:20:27.142605] place: INFO   : Effort Level  : 10
+
+[2013-Oct-11 23:20:27.142605] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-11 23:20:27.159616] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Amount of IOB: 56
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Amount of SLICE: 85
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Amount of Net: 247
+
+[2013-Oct-11 23:20:27.159616] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Proportion of IOB: 39.44%
+
+[2013-Oct-11 23:20:27.159616] place: INFO   :   * Proportion of SLICE(LUT4): 2.77%
+
+[2013-Oct-11 23:20:27.159616] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-11 23:20:27.195640] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-11 23:20:27.198642] place: INFO   :   * Initial cost = 164.075
+
+[2013-Oct-11 23:20:27.198642] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-11 23:20:28.350405] place: INFO   :   * After 20 iterations cost = 134.294
+
+[2013-Oct-11 23:20:29.198970] place: INFO   :   * After 40 iterations cost = 98.4355
+
+[2013-Oct-11 23:20:29.789361] place: INFO   :   * After 60 iterations cost = 58.5096
+
+[2013-Oct-11 23:20:30.660940] place: INFO   :   * After 80 iterations cost = 33.1469
+
+[2013-Oct-11 23:20:31.222311] place: INFO   :   * After 100 iterations cost = 23.6096
+
+[2013-Oct-11 23:20:31.431450] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-11 23:20:31.449462] place: INFO   :   * Final cost = 23.4226
+
+[2013-Oct-11 23:20:31.449462] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-11 23:20:31.474479] place: INFO   : Successfully finish placement. Elapsed Time: 5s
+
+[2013-Oct-12 00:18:38.265595] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-12 00:18:38.265595] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-12 00:18:38.265595] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-12 00:18:38.593735] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-12 00:18:38.609361] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-12 00:18:38.609361] place: INFO   : Effort Level  : 10
+
+[2013-Oct-12 00:18:38.609361] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-12 00:18:38.624987] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Amount of IOB: 56
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Amount of SLICE: 78
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Amount of Net: 233
+
+[2013-Oct-12 00:18:38.624987] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Proportion of IOB: 39.44%
+
+[2013-Oct-12 00:18:38.624987] place: INFO   :   * Proportion of SLICE(LUT4): 2.54%
+
+[2013-Oct-12 00:18:38.624987] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-12 00:18:38.671864] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-12 00:18:38.671864] place: INFO   :   * Initial cost = 108.71
+
+[2013-Oct-12 00:18:38.671864] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-12 00:18:39.703163] place: INFO   :   * After 20 iterations cost = 92.2097
+
+[2013-Oct-12 00:18:40.453201] place: INFO   :   * After 40 iterations cost = 68.8226
+
+[2013-Oct-12 00:18:40.968851] place: INFO   :   * After 60 iterations cost = 36.6935
+
+[2013-Oct-12 00:18:41.734512] place: INFO   :   * After 80 iterations cost = 21.5645
+
+[2013-Oct-12 00:18:42.234536] place: INFO   :   * After 100 iterations cost = 15.9355
+
+[2013-Oct-12 00:18:42.422045] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-12 00:18:42.437671] place: INFO   :   * Final cost = 15.7742
+
+[2013-Oct-12 00:18:42.437671] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-12 00:18:42.468923] place: INFO   : Successfully finish placement. Elapsed Time: 4s
+
+[2013-Oct-14 16:22:42.983715] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 16:22:42.983715] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 16:22:42.983715] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 16:22:43.374356] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 16:22:43.374356] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-14 16:22:43.374356] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 16:22:43.374356] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 16:22:43.389982] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Amount of SLICE: 41
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Amount of Net: 98
+
+[2013-Oct-14 16:22:43.389982] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 16:22:43.389982] place: INFO   :   * Proportion of SLICE(LUT4): 1.33%
+
+[2013-Oct-14 16:22:43.389982] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 16:22:43.499363] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 16:22:43.499363] place: INFO   :   * Initial cost = 103.997
+
+[2013-Oct-14 16:22:43.499363] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 16:22:43.858755] place: INFO   :   * After 20 iterations cost = 79.5739
+
+[2013-Oct-14 16:22:44.108768] place: INFO   :   * After 40 iterations cost = 58.2845
+
+[2013-Oct-14 16:22:44.280650] place: INFO   :   * After 60 iterations cost = 37.5716
+
+[2013-Oct-14 16:22:44.530662] place: INFO   :   * After 80 iterations cost = 18.6597
+
+[2013-Oct-14 16:22:44.718172] place: INFO   :   * After 100 iterations cost = 12.824
+
+[2013-Oct-14 16:22:44.780675] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 16:22:44.780675] place: INFO   :   * Final cost = 12.6439
+
+[2013-Oct-14 16:22:44.780675] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 16:22:44.796300] place: INFO   : Successfully finish placement. Elapsed Time: 2s
+
+[2013-Oct-14 16:34:43.093969] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 16:34:43.093969] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 16:34:43.093969] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 16:34:43.437735] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 16:34:43.437735] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-14 16:34:43.437735] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 16:34:43.437735] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 16:34:43.453361] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Amount of SLICE: 41
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Amount of Net: 98
+
+[2013-Oct-14 16:34:43.453361] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 16:34:43.453361] place: INFO   :   * Proportion of SLICE(LUT4): 1.33%
+
+[2013-Oct-14 16:34:43.453361] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 16:34:43.500239] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 16:34:43.500239] place: INFO   :   * Initial cost = 103.997
+
+[2013-Oct-14 16:34:43.500239] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 16:34:43.859630] place: INFO   :   * After 20 iterations cost = 79.5739
+
+[2013-Oct-14 16:34:44.109641] place: INFO   :   * After 40 iterations cost = 58.2845
+
+[2013-Oct-14 16:34:44.281525] place: INFO   :   * After 60 iterations cost = 37.5716
+
+[2013-Oct-14 16:34:44.547163] place: INFO   :   * After 80 iterations cost = 18.6597
+
+[2013-Oct-14 16:34:44.719046] place: INFO   :   * After 100 iterations cost = 12.824
+
+[2013-Oct-14 16:34:44.781549] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 16:34:44.781549] place: INFO   :   * Final cost = 12.6439
+
+[2013-Oct-14 16:34:44.781549] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 16:34:44.797175] place: INFO   : Successfully finish placement. Elapsed Time: 1s
+
+[2013-Oct-14 16:56:15.530134] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 16:56:15.530134] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 16:56:15.530134] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 16:56:15.873900] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 16:56:15.873900] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-14 16:56:15.873900] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 16:56:15.873900] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 16:56:15.889527] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Amount of SLICE: 41
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Amount of Net: 98
+
+[2013-Oct-14 16:56:15.889527] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 16:56:15.889527] place: INFO   :   * Proportion of SLICE(LUT4): 1.33%
+
+[2013-Oct-14 16:56:15.889527] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 16:56:15.920778] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 16:56:15.920778] place: INFO   :   * Initial cost = 104.177
+
+[2013-Oct-14 16:56:15.920778] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 16:56:16.280169] place: INFO   :   * After 20 iterations cost = 84.2208
+
+[2013-Oct-14 16:56:16.514556] place: INFO   :   * After 40 iterations cost = 49.2429
+
+[2013-Oct-14 16:56:16.702065] place: INFO   :   * After 60 iterations cost = 25.9002
+
+[2013-Oct-14 16:56:16.952077] place: INFO   :   * After 80 iterations cost = 17.9753
+
+[2013-Oct-14 16:56:17.108336] place: INFO   :   * After 100 iterations cost = 12.1036
+
+[2013-Oct-14 16:56:17.170837] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 16:56:17.170837] place: INFO   :   * Final cost = 11.9955
+
+[2013-Oct-14 16:56:17.170837] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 16:56:17.186463] place: INFO   : Successfully finish placement. Elapsed Time: 2s
+
+[2013-Oct-14 17:42:25.032128] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 17:42:25.032128] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 17:42:25.047756] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 17:42:25.375894] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 17:42:25.375894] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-14 17:42:25.375894] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 17:42:25.375894] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 17:42:25.391521] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Amount of SLICE: 47
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Amount of Net: 110
+
+[2013-Oct-14 17:42:25.391521] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 17:42:25.391521] place: INFO   :   * Proportion of SLICE(LUT4): 1.53%
+
+[2013-Oct-14 17:42:25.391521] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 17:42:25.454025] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 17:42:25.454025] place: INFO   :   * Initial cost = 135.508
+
+[2013-Oct-14 17:42:25.454025] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 17:42:25.860294] place: INFO   :   * After 20 iterations cost = 102.826
+
+[2013-Oct-14 17:42:26.157183] place: INFO   :   * After 40 iterations cost = 75.3078
+
+[2013-Oct-14 17:42:26.375944] place: INFO   :   * After 60 iterations cost = 40.4673
+
+[2013-Oct-14 17:42:26.657208] place: INFO   :   * After 80 iterations cost = 22.0451
+
+[2013-Oct-14 17:42:26.875968] place: INFO   :   * After 100 iterations cost = 15.7245
+
+[2013-Oct-14 17:42:26.969722] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 17:42:26.969722] place: INFO   :   * Final cost = 14.6839
+
+[2013-Oct-14 17:42:26.969722] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 17:42:26.985349] place: INFO   : Successfully finish placement. Elapsed Time: 1s
+
+[2013-Oct-14 19:52:55.125005] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 19:52:55.140627] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 19:52:55.140627] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 19:52:55.468770] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 19:52:55.484395] place: INFO   : Progress   30%: no constraint loaded ...
+
+[2013-Oct-14 19:52:55.484395] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 19:52:55.484395] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 19:52:55.500021] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Amount of IOB: 56
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Amount of SLICE: 76
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Amount of Net: 229
+
+[2013-Oct-14 19:52:55.500021] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Proportion of IOB: 39.44%
+
+[2013-Oct-14 19:52:55.500021] place: INFO   :   * Proportion of SLICE(LUT4): 2.47%
+
+[2013-Oct-14 19:52:55.500021] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 19:52:55.546898] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 19:52:55.562524] place: INFO   :   * Initial cost = 162.485
+
+[2013-Oct-14 19:52:55.562524] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 19:52:56.546946] place: INFO   :   * After 20 iterations cost = 123.798
+
+[2013-Oct-14 19:52:57.265731] place: INFO   :   * After 40 iterations cost = 87.9398
+
+[2013-Oct-14 19:52:57.781380] place: INFO   :   * After 60 iterations cost = 55.5175
+
+[2013-Oct-14 19:52:58.562669] place: INFO   :   * After 80 iterations cost = 31.5573
+
+[2013-Oct-14 19:52:59.035219] place: INFO   :   * After 100 iterations cost = 24.194
+
+[2013-Oct-14 19:52:59.191476] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 19:52:59.207100] place: INFO   :   * Final cost = 24.0771
+
+[2013-Oct-14 19:52:59.207100] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 19:52:59.238353] place: INFO   : Successfully finish placement. Elapsed Time: 4s
+
+[2013-Oct-14 20:11:11.386553] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 20:11:11.386553] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 20:11:11.386553] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 20:11:11.714696] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 20:11:11.730320] place: INFO   : Progress   30%: loading constraint "F:\Program Files\FDE2013\workspace\display\src\VeriInstrument_ex_gate.xml" ...
+
+[2013-Oct-14 20:11:11.730320] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 20:11:11.730320] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 20:11:11.745944] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Amount of IOB: 56
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Amount of SLICE: 76
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Amount of Net: 229
+
+[2013-Oct-14 20:11:11.745944] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Proportion of IOB: 39.44%
+
+[2013-Oct-14 20:11:11.745944] place: INFO   :   * Proportion of SLICE(LUT4): 2.47%
+
+[2013-Oct-14 20:11:11.745944] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 20:11:11.777202] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 20:11:11.792824] place: INFO   :   * Initial cost = 156.618
+
+[2013-Oct-14 20:11:11.792824] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 20:11:13.214765] place: INFO   :   * After 20 iterations cost = 126.323
+
+[2013-Oct-14 20:11:14.261691] place: INFO   :   * After 40 iterations cost = 99.2537
+
+[2013-Oct-14 20:11:15.027355] place: INFO   :   * After 60 iterations cost = 66.434
+
+[2013-Oct-14 20:11:15.933648] place: INFO   :   * After 80 iterations cost = 50.7021
+
+[2013-Oct-14 20:11:16.714935] place: INFO   :   * After 100 iterations cost = 43.853
+
+[2013-Oct-14 20:11:17.168081] place: INFO   :   * After 120 iterations cost = 42.2401
+
+[2013-Oct-14 20:11:17.168081] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 20:11:17.183707] place: INFO   :   * Final cost = 42.2401
+
+[2013-Oct-14 20:11:17.183707] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 20:11:17.214959] place: INFO   : Successfully finish placement. Elapsed Time: 6s
+
+[2013-Oct-14 20:59:46.260990] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 20:59:46.260990] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 20:59:46.260990] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 20:59:46.589128] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 20:59:46.604754] place: INFO   : Progress   30%: loading constraint "F:\Program Files\FDE2013\workspace\display\src\VeriInstrument_ex_gate.xml" ...
+
+[2013-Oct-14 20:59:46.604754] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 20:59:46.604754] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 20:59:46.620379] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Amount of SLICE: 47
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Amount of Net: 111
+
+[2013-Oct-14 20:59:46.620379] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 20:59:46.620379] place: INFO   :   * Proportion of SLICE(LUT4): 1.53%
+
+[2013-Oct-14 20:59:46.620379] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 20:59:46.651632] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 20:59:46.651632] place: INFO   :   * Initial cost = 124.061
+
+[2013-Oct-14 20:59:46.651632] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 20:59:47.261036] place: INFO   :   * After 20 iterations cost = 114.388
+
+[2013-Oct-14 20:59:47.714182] place: INFO   :   * After 40 iterations cost = 79.7399
+
+[2013-Oct-14 20:59:48.011071] place: INFO   :   * After 60 iterations cost = 46.7494
+
+[2013-Oct-14 20:59:48.370466] place: INFO   :   * After 80 iterations cost = 25.8606
+
+[2013-Oct-14 20:59:48.667354] place: INFO   :   * After 100 iterations cost = 18.4608
+
+[2013-Oct-14 20:59:48.776733] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 20:59:48.792359] place: INFO   :   * Final cost = 17.1119
+
+[2013-Oct-14 20:59:48.792359] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 20:59:48.807985] place: INFO   : Successfully finish placement. Elapsed Time: 2s
+
+[2013-Oct-14 21:05:44.006727] place: INFO   : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+
+
+[2013-Oct-14 21:05:44.006727] place: INFO   : Progress    0%: parsing commands ...
+
+[2013-Oct-14 21:05:44.006727] place: INFO   : Progress   10%: loading arch library "F:\Program Files\FDE2013\hw_lib\fdp3p7_arch.xml" ...
+
+[2013-Oct-14 21:05:44.334869] place: INFO   : Progress   20%: loading netlist "display_fde_dc_pack.xml" ...
+
+[2013-Oct-14 21:05:44.334869] place: INFO   : Progress   30%: loading constraint "F:\Program Files\FDE2013\workspace\display\src\VeriInstrument_ex_gate.xml" ...
+
+[2013-Oct-14 21:05:44.334869] place: INFO   : Effort Level  : 10
+
+[2013-Oct-14 21:05:44.334869] place: INFO   : Mode          : Bounding Box
+
+[2013-Oct-14 21:05:44.350495] place: INFO   : Design        : "VeriInstrument_ex", resource statistic:
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Amount of GCLK: 1
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Amount of GCLKIOB: 1
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Amount of IOB: 13
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Amount of SLICE: 61
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Amount of Net: 138
+
+[2013-Oct-14 21:05:44.350495] place: INFO   : Device        : "fdp3000k", resource usage:
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Proportion of GCLK: 25.00%
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Proportion of GCLKIOB: 25.00%
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Proportion of IOB: 9.15%
+
+[2013-Oct-14 21:05:44.350495] place: INFO   :   * Proportion of SLICE(LUT4): 1.99%
+
+[2013-Oct-14 21:05:44.350495] place: INFO   : Progress   50%: build FPGA architecture ...
+
+[2013-Oct-14 21:05:44.397376] place: INFO   : Progress   60%: begin to initially place ...
+
+[2013-Oct-14 21:05:44.397376] place: INFO   :   * Initial cost = 170.674
+
+[2013-Oct-14 21:05:44.397376] place: INFO   : Progress   70%: begin to perform place iteration ...
+
+[2013-Oct-14 21:05:45.053653] place: INFO   :   * After 20 iterations cost = 147.853
+
+[2013-Oct-14 21:05:45.538051] place: INFO   :   * After 40 iterations cost = 115.551
+
+[2013-Oct-14 21:05:45.881818] place: INFO   :   * After 60 iterations cost = 58.3219
+
+[2013-Oct-14 21:05:46.288088] place: INFO   :   * After 80 iterations cost = 32.1063
+
+[2013-Oct-14 21:05:46.616229] place: INFO   :   * After 100 iterations cost = 25.5524
+
+[2013-Oct-14 21:05:46.788112] place: INFO   : Progress   80%: begin to perform final place iteration ...
+
+[2013-Oct-14 21:05:46.788112] place: INFO   :   * Final cost = 23.2117
+
+[2013-Oct-14 21:05:46.788112] place: INFO   : Progress   90%: begin to write placed netlist ...
+
+[2013-Oct-14 21:05:46.803738] place: INFO   : Successfully finish placement. Elapsed Time: 2s
+

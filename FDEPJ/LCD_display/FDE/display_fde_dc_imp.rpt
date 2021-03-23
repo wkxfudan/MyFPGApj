@@ -1,0 +1,12 @@
+Mapping Resource Statistic
+***General Type count***
+Lut	: 119
+Latch	: 14
+Macro	: 2
+***Concrete Type count***
+Latch_DFFRHQ	: 14
+Lut2	: 33
+Lut3	: 30
+Lut4	: 56
+Macro_LOGIC_0	: 1
+Macro_LOGIC_1	: 1
